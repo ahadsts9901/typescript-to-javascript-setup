@@ -19,7 +19,7 @@
 - src - index.ts
 - dist - index.js
 
-### Search "outDir", unComment and replace it with this
+### Search "outDir" in tsconfig.json , unComment and replace it with this
 
     "outDir": "./dist",
 
